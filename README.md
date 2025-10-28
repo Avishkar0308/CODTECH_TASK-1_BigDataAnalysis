@@ -71,3 +71,10 @@ By using parallel and distributed data processing, large-scale datasets can be h
 The project highlights practical applications of big data tools in customer analytics and decision-making.
 
 
+
+<img width="1192" height="874" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/bd6da16a-4331-425e-9a2b-12f8755a4e97" />
+
+
+
+
+
